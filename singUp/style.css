@@ -1,0 +1,88 @@
+.wrapper {
+    width: 340px;
+    margin: 0 auto;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.header {
+    width: 100%;
+    background-color: green;
+    color: white;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+    padding: 15px;
+}
+input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sing {
+    color: white;
+    background-color: green;
+    cursor: pointer;
+    border: none;
+    height: 25px;
+    border-radius: 5px;
+}
+.wrapper2{
+    display: none;
+    width: 340px;
+    margin: 0 auto;
+    border: 2px solid gray;
+    border-radius: 5px;
+}
+.head {
+    height: 70px;
+    width: 100%;
+    background-color: green;
+}
+.men {
+    width: 100px;
+    border-radius: 120%;
+    margin: 0 auto;
+    margin-top: -45px;
+    border: 15px solid white;
+}
+.women {
+    width: 100px;
+    border-radius: 120%;
+    margin: 0 auto;
+    margin-top: -45px;
+    border: 15px solid white;
+}
+.name {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 17px;
+}
+.gmail {
+    color: gray;
+    text-align: center;
+    font-size: 15px;
+}
+.position {
+    text-align: center;
+    margin: 20px auto;
+    font-size: 15px;
+}
+.singOut {
+    width: 100px;
+    margin: 10px 123px;
+    background-color: #fff;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+.footer {
+    height: 70px;
+    background-color: green;
+}
